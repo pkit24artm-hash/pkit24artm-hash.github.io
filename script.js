@@ -129,6 +129,6 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 
 // Welcome message when page loads
 window.addEventListener('load', function() {
-    console.log('Welcome to Sarah\'s Portfolio! Check out the interactive demos.');
+    console.log('Welcome to Rustam\'s Portfolio! Check out the interactive demos.');
 });
 
